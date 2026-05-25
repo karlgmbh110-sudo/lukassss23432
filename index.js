@@ -7,7 +7,7 @@ const axios = require("axios");
 const app = express();
 
 // 🔑 DEINE DATEN (so gelassen wie du wolltest)
-const BOT_TOKEN = "8861172445:AAFIn2lUkconc4VGBra67nwlLLEdpTAKT58";
+const BOT_TOKEN = "8861172445:AAGGPwnmOol30eC8nKdoa7RdPH0FkXpQKuI";
 const API_KEY = "XBRR5XP-7G1MJBV-GKWY9CD-GH2ZNYV";
 
 // 🤖 BOT
